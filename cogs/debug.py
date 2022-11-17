@@ -1,7 +1,7 @@
 from os import environ, system
 
 import jishaku
-from discord.ext import commands
+from disnake.ext import commands
 from jishaku.cog import Jishaku
 import logging
 
